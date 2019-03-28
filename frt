@@ -1,5 +1,6 @@
 pipline {
- agent slave
+lorkf;krkfk;fk 
+agent slave
  stages {
  stage (check out){
  steps {
