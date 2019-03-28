@@ -6,5 +6,10 @@ pipline {
  chekout scm
     }
    }
+ stage (build){
+ step {
+   sh 'home/sandeep/tomcat/mvn install'
+   }
+  }
  }
 }
