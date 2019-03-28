@@ -1,5 +1,5 @@
 pipline {
- agent any 
+ agent slave
  stages {
  stage (check out){
  steps {
